@@ -1,0 +1,26 @@
+账号: "xpath==//input[@placeholder='用户名']"
+密码: "xpath==//input[@placeholder='密码']"
+登录: "xpath==//button[@class='el-button w-percent-100 el-button--primary el-button--default']"
+选择仓库: "xpath==//button[@class='el-button w-percent-100 select-button el-button--primary el-button--default']"
+
+拣货按钮: "xpath==//*[@id='pane-outbound-picking-login-station']/div/div[1]/div[2]/div/div[1]/div/div"
+
+登录拣货工作站: "xpath==//*[@id='pane-outbound-picking-login-station']/div/div[2]/div/div[2]/div/div/form/div/div/div[1]/input"
+分配容器: "xpath==/html/body/div[1]/div[2]/div/div[5]/div/div[1]/label[1]/span[1]/span"
+分配订单: "xpath==/html/body/div[1]/div[2]/div/div[5]/div/div[1]/label[2]/span[1]/span"
+
+确认货架: "xpath==//*[@id='pane-inbound-receiving-login-station']/div/div[3]/div/div/div[3]/span/button[2]/span"
+刷新货架: "xpath==/html/body/div[1]/div[2]/div/div[5]/div/div[2]/div/button[2]/span"
+退出拣货: "xpath==//html/body/div[1]/div[2]/div/div[5]/div/div[2]/div/button[3]/span"
+确认退出拣货: "xpath==/html/body/div[1]/div[3]/div/div/div[3]/span/button[2]/span"
+判断: "xpath==//*[@id='pane-outbound-picking-login-station']/div/div[1]/div[1]/div"
+
+输入拣货分播墙格子: "xpath==/html/body/div/div[2]/div/div[3]/div[1]/div[1]/form/div/div/div/input"
+输入满箱分播墙格子: "xpath==/html/body/div/div[2]/div/div[3]/div[1]/div[1]/form/div/div/div/input"
+
+满箱分播墙格子: "xpath==/html/body/div/div[2]/div/div[3]/div[2]/div/div[3]"
+
+拣货分播墙格子: "xpath==/html/body/div/div[2]/div/div[4]/div[2]"
+
+
+
